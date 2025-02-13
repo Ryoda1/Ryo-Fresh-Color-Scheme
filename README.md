@@ -1,4 +1,4 @@
-# Ryo-Fresh-Color-Scheme
+# Ryo fresh color scheme
 A modern and harmonious color scheme with a well-thought-out balance of shades, ensuring a stylish and readable interface.
 
 # Color Palette
