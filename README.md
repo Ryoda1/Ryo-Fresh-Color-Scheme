@@ -17,3 +17,11 @@ A modern and harmonious color scheme with a well-thought-out balance of shades, 
 | ![F6B5F7](./colors/F6B5F7.png) | **Light Pink** | #F6B5F7   | Accent (not for white text) |
 | ![0B1011](./colors/0B1011.png) | **Black**      | #0B1011   | Primary (for background/large elements) |
 | ![FFFFFF](./colors/FFFFFF.png) | **White**      | #FFFFFF   | For text or background |
+# Additional Dark Shades for Backgrounds
+
+| Sample                          | Color Name          | Hex Code  |
+|----------------------------------|---------------------|-----------|
+| ![#0B1011](https://placehold.co/50x50/0B1011/0B1011.png) | **Black (Primary)**  | #0B1011  |
+| ![#15191C](https://placehold.co/50x50/15191C/15191C.png) | **Charcoal (Soft)**  | #15191C  |
+| ![#1C1F26](https://placehold.co/50x50/1C1F26/1C1F26.png) | **Graphite (Cool)**  | #1C1F26  |
+| ![#24282F](https://placehold.co/50x50/24282F/24282F.png) | **Asphalt (Dark Gray)** | #24282F  |
