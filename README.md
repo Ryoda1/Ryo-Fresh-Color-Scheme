@@ -17,7 +17,7 @@ A modern and harmonious color scheme with a well-thought-out balance of shades, 
 | ![F6B5F7](./colors/F6B5F7.png) | **Light Pink** | #F6B5F7   | Accent (not for white text) |
 | ![0B1011](./colors/0B1011.png) | **Black**      | #0B1011   | Primary (for background/large elements) |
 | ![FFFFFF](./colors/FFFFFF.png) | **White**      | #FFFFFF   | For text or background |
-# Additional Dark Shades for Backgrounds
+# Backgrounds colors
 
 | Sample                          | Color Name          | Hex Code  |
 |----------------------------------|---------------------|-----------|
