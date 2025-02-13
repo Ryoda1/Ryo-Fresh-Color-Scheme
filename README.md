@@ -3,7 +3,7 @@ A modern and harmonious color scheme with a well-thought-out balance of shades, 
 
 # Color Palette
 
-## All Colors (Sorted by Rainbow Colors)
+## All Colors 
 
 | Color Example      | Color        | Code      | Type                    |
 |--------------------|--------------|-----------|-------------------------|
